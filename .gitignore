@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Virtual environments
+venv/
+.env/
+.env.local
+
+# AWS SAM build artifacts
+.aws-sam/
+*.zip
+
+# AWS credentials
+.aws/credentials
+.aws/config
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
